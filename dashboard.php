@@ -34,7 +34,7 @@ if (!$survey_table) {
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-  <title>Grader Tool - Dashboard teste</title>
+  <title>Grader Tool - Dashboard</title>
 
   <meta charset="utf-8">
   <meta name="description" content="">
